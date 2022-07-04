@@ -11,6 +11,8 @@ The standard scripts and configuration files have been ejected into `scripts` an
 we encourage you to envision the contents there as they relate to things we'd normally see serviced by some kind
 of ad-hoc configuration pipeline, and how easy it could be to think in terms of schema objects instead.
 
+See the shipped `.env` file for the simple configuration variable.
+
 ## Configu's Client Libraries Are Open Source As Well
 
 While you work through tutorials like this, you might say to yourself "_Hey, self: If this command worked a little 
