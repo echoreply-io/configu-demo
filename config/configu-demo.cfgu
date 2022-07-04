@@ -1,0 +1,6 @@
+{
+    "REACT_APP_CONFIGU_IS": {
+        "type": "String",
+        "default": "Awesome"
+    }
+}
